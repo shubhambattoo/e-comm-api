@@ -1,0 +1,48 @@
+[
+  {
+    "name": "SmartWatch Pro",
+    "price": 199.99,
+    "id": 12345,
+    "features": [
+      "Heart rate monitor",
+      "Sleep tracking",
+      "Water-resistant design"
+    ]
+  },
+  {
+    "name": "Wireless Earbuds X1",
+    "price": 79.99,
+    "id": 23456,
+    "features": [
+      "Bluetooth 5.0 connectivity",
+      "Noise cancellation",
+      "12-hour battery life"
+    ]
+  },
+  {
+    "name": "Laptop UltraBook 2022",
+    "price": 1099.99,
+    "id": 34567,
+    "features": [
+      "Intel Core i7 processor",
+      "16GB RAM, 512GB SSD",
+      "15.6\" Full HD display"
+    ]
+  },
+  {
+    "name": "Fitness Tracker Plus",
+    "price": 49.99,
+    "id": 45678,
+    "features": ["Step counter", "Calorie tracker", "OLED display"]
+  },
+  {
+    "name": "Gaming Mouse RGB",
+    "price": 59.99,
+    "id": 56789,
+    "features": [
+      "Adjustable DPI",
+      "Programmable buttons",
+      "RGB lighting effects"
+    ]
+  }
+]

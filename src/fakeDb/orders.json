@@ -1,0 +1,55 @@
+[
+  {
+    "orderId": "qjqK09UqXY0VTFYFKlymC",
+    "items": [
+      {
+        "name": "SmartWatch Pro",
+        "price": 199.99,
+        "id": 12345,
+        "features": [
+          "Heart rate monitor",
+          "Sleep tracking",
+          "Water-resistant design"
+        ]
+      }
+    ],
+    "totalAmount": 399.98,
+    "discountApplied": false
+  },
+  {
+    "orderId": "6avbuT0Jx3mzn8X7WjxMp",
+    "items": [
+      {
+        "name": "SmartWatch Pro",
+        "price": 199.99,
+        "id": 12345,
+        "features": [
+          "Heart rate monitor",
+          "Sleep tracking",
+          "Water-resistant design"
+        ]
+      }
+    ],
+    "totalAmount": 199.99,
+    "discountApplied": false
+  },
+  {
+    "orderId": "V4sIl4ilF8Tjk2OKOpAFg",
+    "items": [
+      {
+        "name": "SmartWatch Pro",
+        "price": 199.99,
+        "id": 12345,
+        "features": [
+          "Heart rate monitor",
+          "Sleep tracking",
+          "Water-resistant design"
+        ]
+      }
+    ],
+    "totalAmount": 539.9730000000001,
+    "discountApplied": true,
+    "discountAmount": 59.99700000000001,
+    "discountCode": "VpFvqPnq"
+  }
+]
